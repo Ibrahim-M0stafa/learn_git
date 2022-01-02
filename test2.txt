@@ -1,3 +1,4 @@
 this is a test
 this is myfirst test
 another test
+her is a line in another file
